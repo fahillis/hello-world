@@ -1,2 +1,3 @@
 # hello-world
 A first personal repo....
+Hi there. I'm only doing this for review and the lulz.
